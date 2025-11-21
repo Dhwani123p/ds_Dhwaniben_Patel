@@ -1,4 +1,6 @@
 Trader Behavior Insights (Fear & Greed Index + Hyperliquid Trades)
+
+
 📌 Project Title:
 
 Trader Behavior Insights Based on Market Sentiment (Fear & Greed Index × Hyperliquid Historical Trades)
