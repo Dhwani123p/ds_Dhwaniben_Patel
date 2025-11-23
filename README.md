@@ -31,10 +31,8 @@ e.XGBoost-based predictive modeling
 Note: All notebooks are publicly accessible with “Anyone with the link can view” enabled.
 
 Main EDA + Modeling Notebook
-🔗 notebook_1.ipynb
+🔗[ notebook_1.ipynb](https://colab.research.google.com/drive/1gwXHTVx9GhK_jA-Vi5RYtq6bQ8FXr6ps?usp=sharing)
 
-Additional/Optional Notebook
-🔗 notebook_2.ipynb
 
 (Replace placeholders with your actual links.)
 
@@ -135,7 +133,9 @@ outputs/
 
 🏁 About the Author
 Dhwaniben Patel
+
 Aspiring Machine Learning & Data Science Engineer
+
 Focused on quantitative analysis, NLP, and real-time trading intelligence.
 
 Trend discovery & actionable insights
