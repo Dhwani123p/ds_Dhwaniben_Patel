@@ -115,7 +115,8 @@ Jupyter Notebook
 Clone the repository:
 
 git clone https://github.com/dhwani123p/ds_dhwaniben_patel.git
-cd ds_dhwani_patel
+
+cd ds_dhwaniben_patel
 
 
 Open the Colab notebook:
