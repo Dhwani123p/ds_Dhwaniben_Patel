@@ -93,27 +93,6 @@ f. Three clusters emerged:
 
   iii. Cluster 2: High-volume, highest win-rate, most stable
 
-5️⃣ Predictive Modeling (XGBoost)
-
-a. Classification target: win vs loss
-
-b. Features included sentiment, side, coin, size, leverage, fees
-
-c. One-hot encoding of categorical variables
-
-d. Model Evaluation:
-
-    Accuracy: X%
-
-    ROC–AUC: Y%
-
-Feature importance identified classification, side, and trade size as key predictors.
-
-(Replace X and Y with actual metrics after training.)
-
-
-
-
 
 
 
@@ -127,8 +106,6 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-XGBoost
-
 Google Colab
 
 Jupyter Notebook
@@ -137,14 +114,14 @@ Jupyter Notebook
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ds_dhwani_patel.git
+git clone https://github.com/dhwani123p/ds_dhwaniben_patel.git
 cd ds_dhwani_patel
 
 
 Open the Colab notebook:
 
-notebook_1.ipynb
-
+[notebook_1.ipynb
+](https://colab.research.google.com/drive/1gwXHTVx9GhK_jA-Vi5RYtq6bQ8FXr6ps?usp=sharing)
 
 Ensure uploaded datasets match structure used in code
 
